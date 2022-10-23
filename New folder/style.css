@@ -1,0 +1,15 @@
+h1{
+    color: #fcf8f8;
+    font-size: 30px;
+    background-color: rgb(238, 247, 236);
+    text-align: center;
+    text-shadow: 3px 5px 2px #474747;
+}
+
+
+p{
+    color: rgb(66, 4, 107);
+    width: 50%;
+    text-align: justify;
+ 
+}
